@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Avacial
+# About me
+- 👋 Hi, I’m @xKersi
 - 👀 I’m interested in Coding and Sleeping
 - 🌱 I’m currently learning A.I Machine Learning
 - 💞️ I’m looking to collaborate on Any Projects
-- 📫 How to reach me _0_#0001 My Discord Tag
+- 📫 How to reach me __0\___#9999 My Discord Tag
 
 <!---
 Avacial/Avacial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
