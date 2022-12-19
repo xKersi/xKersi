@@ -5,12 +5,13 @@
 - 💞️ I’m looking to collaborate on Any Projects
 - 📫 How to reach me __0\___#9999 My Discord Tag
 
-# Life
-- 🚀I'm currently a 3rd Year CS Student.
-- 🫘I do alot of stuff just to live.
-- 🧠Mentally Unstable
-- 🌙Sleepy as f.
-- 🤷Eh, Just basically me.
+# Progress
+
+|  Language  |  Progress  |
+|------------|------------|
+| Javascript | ![Progress](https://progress-bar.dev/58/?title=completed)|
+|            | https://progress-bar.dev/58/?title=completed |
+
 
 <!---
 Avacial/Avacial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
