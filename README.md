@@ -7,10 +7,12 @@
 
 # Progress
 
-|  Language  |  Progress  |
-|------------|------------|
-| Javascript | ![Progress](https://progress-bar.dev/100/?title=Completed)|
-|  Python    | ![Progress](https://progress-bar.dev//?title=Completed)|
+|  Language  |  Progress  |  Libraries  |
+|------------|------------|-------------|
+| Javascript | ![Progress](https://progress-bar.dev/100/?title=Completed)| NodeJS and ReactNative/React |
+|   Python   | ![Progress](https://progress-bar.dev/100/?title=Completed)|
+|    Java    | ![Progress](https://progress-bar.dev/100/?title=Completed)|
+|     C++    | ![Progress](https://progress-bar.dev/63/?title=Studying)  |
 
 
 <!---
