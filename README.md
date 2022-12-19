@@ -9,10 +9,10 @@
 
 |  Language  |  Progress  |  Libraries  |
 |------------|------------|-------------|
-| Javascript | ![Progress](https://progress-bar.dev/100/?title=Completed)| ReactJS \n VueJS \n DojoToolkit |
-|   Python   | ![Progress](https://progress-bar.dev/100/?title=Completed)|
-|    Java    | ![Progress](https://progress-bar.dev/100/?title=Completed)|
-|     C++    | ![Progress](https://progress-bar.dev/63/?title=Studying)  |
+| Javascript | ![Progress](https://progress-bar.dev/100/?title=Completed)| ReactJS, VueJS, and DojoToolkit |
+|   Python   | ![Progress](https://progress-bar.dev/100/?title=Completed)| Pandas, TensorFlow, SciPy, and SciPy |
+|    Java    | ![Progress](https://progress-bar.dev/100/?title=Completed)| To Be Listed |
+|     C++    | ![Progress](https://progress-bar.dev/63/?title=Studying)  | To Be Listed |
 
 
 <!---
