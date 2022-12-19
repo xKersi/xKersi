@@ -9,7 +9,7 @@
 
 |  Language  |  Progress  |  Libraries  |
 |------------|------------|-------------|
-| Javascript | ![Progress](https://progress-bar.dev/100/?title=Completed)| NodeJS and ReactNative/React |
+| Javascript | ![Progress](https://progress-bar.dev/100/?title=Completed)| ReactJS \n VueJS \n DojoToolkit |
 |   Python   | ![Progress](https://progress-bar.dev/100/?title=Completed)|
 |    Java    | ![Progress](https://progress-bar.dev/100/?title=Completed)|
 |     C++    | ![Progress](https://progress-bar.dev/63/?title=Studying)  |
