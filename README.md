@@ -10,7 +10,7 @@
 |  Language  |  Progress  |
 |------------|------------|
 | Javascript | ![Progress](https://progress-bar.dev/100/?title=Completed)|
-|  Python    | ![Progress](https://progress-bar.dev/100/?title=Completed)|
+|  Python    | ![Progress](https://progress-bar.dev//?title=Completed)|
 
 
 <!---
