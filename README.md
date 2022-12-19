@@ -7,8 +7,8 @@
 
 # Progress
 
-|  Language  |  Progress  |  Libraries  |
-|------------|------------|-------------|
+|  Language  |  Progress  |  Libraries I worked with  |
+|------------|------------|---------------------------|
 | Javascript | ![Progress](https://progress-bar.dev/100/?title=Completed)| ReactJS, VueJS, and DojoToolkit |
 |   Python   | ![Progress](https://progress-bar.dev/100/?title=Completed)| Pandas, TensorFlow, SciPy, Matplotlib,and SciPy |
 |    Java    | ![Progress](https://progress-bar.dev/100/?title=Completed)| To Be Listed |
